@@ -14,8 +14,8 @@ export class RecipeListComponent implements OnInit {
   constructor() {
     this.recipes = [
       new Recipe("Nasi Goreng", "This is simply a test", "http://img.taste.com.au/8ctlZIxw/taste/2016/11/nasi-goreng-353-1.jpeg"),
-      new Recipe("Nasi Goreng", "This is simply a test", "http://img.taste.com.au/8ctlZIxw/taste/2016/11/nasi-goreng-353-1.jpeg"),
-      new Recipe("Nasi Goreng", "This is simply a test", "http://img.taste.com.au/8ctlZIxw/taste/2016/11/nasi-goreng-353-1.jpeg")
+      new Recipe("Iets anders", "This is simply a test", "http://img.taste.com.au/8ctlZIxw/taste/2016/11/nasi-goreng-353-1.jpeg"),
+      new Recipe("Nog iets anders", "This is simply a test", "http://img.taste.com.au/8ctlZIxw/taste/2016/11/nasi-goreng-353-1.jpeg")
     ];
   }
 
